@@ -1,4 +1,4 @@
-ruits = ["Blackberries", "Mango", "Kiwi", "Peaches", "Strawberry"];
+fruits = ["Blackberries", "Mango", "Kiwi", "Peaches", "Strawberry"];
 function getFruit(ind) {
     if (typeof ind === 'string') {
         
